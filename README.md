@@ -31,6 +31,6 @@ Before running the Notebook, make sure you have the following software installed
 - [Tavily Search](https://docs.tavily.com/)
 
 ## Related Article
-📖 Read the full tutorial on Medium: [Medium]()
+📖 Read the full tutorial on Medium: [Medium](https://medium.com/@vamsikd219/beginners-guide-to-langgraph-create-a-multi-agent-assistant-with-llama-3-ab51c8acd0a1)
 
 
