@@ -33,4 +33,6 @@ Before running the Notebook, make sure you have the following software installed
 ## Related Article
 📖 Read the full tutorial on Medium: [Medium](https://medium.com/@vamsikd219/beginners-guide-to-langgraph-create-a-multi-agent-assistant-with-llama-3-ab51c8acd0a1)
 
-
+## For streamlit version of notebook checkout langgraph_ai_assistant folder
+### The Interface looks like
+![App Screenshot](langgraph_ai_assistant/project_demo.png)
